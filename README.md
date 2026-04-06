@@ -53,4 +53,4 @@ A professional, lightweight, and secure PHP-based chat application designed for 
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ## 👨‍💻 Developer
-Created by **Iwnull** Follow me on Telegram: [@iwnull]
+Created by **Amirreza Garshasbi** Follow me on Telegram: [@iwnull]
